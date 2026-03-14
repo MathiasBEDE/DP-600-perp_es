@@ -48,7 +48,7 @@ VALUES
 (10, 'CUST-010', 'James',    'Chen',     'james.chen@email.com',       '617-555-0110', 'Male',       '1994-10-06', 'Boston',        'Massachusetts', 'United States', '02101', 'Platinum', '2019-09-08', 1),
 (11, 'CUST-011', 'Mia',      'Thompson', 'mia.thompson@email.com',     '303-555-0111', 'Female',     '1996-06-25', 'Denver',        'Colorado',      'United States', '80201', 'Bronze',   '2023-01-15', 1),
 (12, 'CUST-012', 'Benjamin', 'White',    'benjamin.white@email.com',   '615-555-0112', 'Male',       '1984-02-14', 'Nashville',     'Tennessee',     'United States', '37201', 'Gold',     '2020-05-30', 1),
-(13, 'CUST-013', 'Charlotte','Harris',   'charlotte.harris@email.com', '512-555-0113', 'Female',     '1998-08-08', 'Austin',        'Texas',         'United States', '73301', 'Silver',   '2021-11-11', 1),
+(13, 'CUST-013', 'Charlotte','Harris',   'charlotte.harris@email.com', '512-555-0113', 'Female',     '1998-08-08', 'Austin',        'Texas',         'United States', '78701', 'Silver',   '2021-11-11', 1),
 (14, 'CUST-014', 'Lucas',    'Clark',    NULL,                          '702-555-0114', 'Male',       '1986-03-29', 'Las Vegas',     'Nevada',        'United States', '89101', 'Bronze',   '2022-03-20', 0),
 (15, 'CUST-015', 'Amelia',   'Lewis',    'amelia.lewis@email.com',     '919-555-0115', 'Female',     '1992-11-15', 'Raleigh',       'North Carolina','United States', '27601', 'Gold',     '2020-09-01', 1),
 (16, 'CUST-016', 'Alexander','Walker',   'alex.walker@email.com',      '416-555-0116', 'Male',       '1990-07-20', 'Toronto',       'Ontario',       'Canada',        'M5H2N2','Silver',   '2021-06-08', 1),
