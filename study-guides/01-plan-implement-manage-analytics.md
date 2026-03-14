@@ -51,7 +51,7 @@ OneLake is the unified data lake that underpins all of Microsoft Fabric. Key cha
 |---|---|
 | **Tenant** | The top-level organizational boundary in Fabric (maps to an Azure AD / Entra ID tenant) |
 | **Capacity** | The compute and resource pool assigned to run Fabric workloads, measured in Capacity Units (CUs) |
-| **Workspace** | A logical container for Fabric items (lakehouses, warehouses, reports, etc.) |
+| **Workspace** | A logical container for Fabric items that provides collaboration boundaries and role-based access control (Admin, Member, Contributor, Viewer) |
 | **Item** | Any artifact within a workspace (lakehouse, warehouse, notebook, pipeline, report, semantic model, etc.) |
 | **OneLake** | The unified storage layer for all Fabric data |
 | **Shortcut** | A pointer to data stored in another location (internal or external) without copying the data |

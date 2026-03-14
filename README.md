@@ -43,7 +43,7 @@ This repository is a comprehensive preparation toolkit for the **DP-600: Impleme
 DP-600-perp/
 │
 ├── study-guides/                  # Domain-by-domain study guides
-│   ├── domain-1-plan-implement-manage.md
+│   ├── 01-plan-implement-manage-analytics.md
 │   ├── domain-2-prepare-serve-data.md
 │   ├── domain-3-semantic-models.md
 │   └── domain-4-explore-analyze.md
@@ -100,7 +100,7 @@ DP-600-perp/
 
 | Day | Activity | Resources |
 |---|---|---|
-| Monday | Read Domain 1 study guide | `study-guides/domain-1-plan-implement-manage.md` |
+| Monday | Read Domain 1 study guide | `study-guides/01-plan-implement-manage-analytics.md` |
 | Tuesday | Explore Microsoft Fabric workspace in a trial tenant | [Microsoft Fabric Free Trial](https://learn.microsoft.com/en-us/fabric/get-started/fabric-trial) |
 | Wednesday | Practice Domain 1 questions (first half) | `practice-questions/domain-1-questions.md` |
 | Thursday | Practice Domain 1 questions (second half) | `practice-questions/domain-1-questions.md` |
