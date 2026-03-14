@@ -44,9 +44,9 @@ DP-600-perp/
 │
 ├── study-guides/                  # Domain-by-domain study guides
 │   ├── 01-plan-implement-manage-analytics.md
-│   ├── domain-2-prepare-serve-data.md
-│   ├── domain-3-semantic-models.md
-│   └── domain-4-explore-analyze.md
+│   ├── 02-prepare-and-serve-data.md
+│   ├── 03-implement-manage-semantic-models.md
+│   └── 04-explore-and-analyze-data.md
 │
 ├── practice-questions/            # 200+ multiple-choice questions
 │   ├── domain-1-questions.md
@@ -114,7 +114,7 @@ DP-600-perp/
 
 | Day | Activity | Resources |
 |---|---|---|
-| Monday | Read Domain 2 study guide (first half — ingestion & Dataflows) | `study-guides/domain-2-prepare-serve-data.md` |
+| Monday | Read Domain 2 study guide (first half — ingestion & Dataflows) | `study-guides/02-prepare-and-serve-data.md` |
 | Tuesday | Hands-on: Create Dataflow Gen2 in Fabric workspace | Microsoft Fabric trial environment |
 | Wednesday | Hands-on: Build a Data Pipeline with copy activity | Microsoft Fabric trial environment |
 | Thursday | Practice Domain 2 questions (questions 1–25) | `practice-questions/domain-2-questions.md` |
@@ -128,7 +128,7 @@ DP-600-perp/
 
 | Day | Activity | Resources |
 |---|---|---|
-| Monday | Read Domain 2 study guide (second half — Lakehouse & Warehouse) | `study-guides/domain-2-prepare-serve-data.md` |
+| Monday | Read Domain 2 study guide (second half — Lakehouse & Warehouse) | `study-guides/02-prepare-and-serve-data.md` |
 | Tuesday | Hands-on: Create a Lakehouse, load data with notebooks | Microsoft Fabric trial environment |
 | Wednesday | Hands-on: Create a Warehouse, write T-SQL queries | `practice-database/` exercises |
 | Thursday | Practice Domain 2 questions (questions 26–50+) | `practice-questions/domain-2-questions.md` |
@@ -142,7 +142,7 @@ DP-600-perp/
 
 | Day | Activity | Resources |
 |---|---|---|
-| Monday | Read Domain 3 study guide | `study-guides/domain-3-semantic-models.md` |
+| Monday | Read Domain 3 study guide | `study-guides/03-implement-manage-semantic-models.md` |
 | Tuesday | Deep-dive into DAX patterns (CALCULATE, context transition) | `cheat-sheets/dax-cheat-sheet.md` |
 | Wednesday | Hands-on: Build a semantic model with relationships and measures | Microsoft Fabric trial environment |
 | Thursday | Practice Domain 3 questions (first half) | `practice-questions/domain-3-questions.md` |
@@ -156,7 +156,7 @@ DP-600-perp/
 
 | Day | Activity | Resources |
 |---|---|---|
-| Monday | Read Domain 4 study guide | `study-guides/domain-4-explore-analyze.md` |
+| Monday | Read Domain 4 study guide | `study-guides/04-explore-and-analyze-data.md` |
 | Tuesday | Hands-on: Create reports and dashboards in Fabric | Microsoft Fabric trial environment |
 | Wednesday | Study CI/CD, deployment pipelines, and ALM in Fabric | Study guide + Microsoft Learn |
 | Thursday | Practice Domain 4 questions (first half) | `practice-questions/domain-4-questions.md` |
