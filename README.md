@@ -4,6 +4,8 @@
 >
 > A complete, self-contained study repository for the **DP-600** certification exam — covering all four domains, 200+ practice questions, real-world case studies, mock exams, and a structured 6-week study plan.
 
+> **Spanish translation notice:** A Spanish version for Spanish-speaking readers is available at [README.es.md](README.es.md). The English version remains the primary source of truth. Original source repository: `guptadeepak18/DP-600-perp`.
+
 ---
 
 ## 📖 About This Repository
