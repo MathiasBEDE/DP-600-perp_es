@@ -76,6 +76,7 @@ DP-600-perp/
 ├── cheat-sheets/                  # Guías de referencia rápida
 │   ├── dax-cheat-sheet.md
 │   ├── t-sql-cheat-sheet.md
+│   ├── t-sql-cheat-sheet.es.md
 │   ├── fabric-components-cheat-sheet.md
 │   └── exam-tips-cheat-sheet.md
 │
@@ -125,7 +126,7 @@ DP-600-perp/
 | Martes | Práctica: Crear un Dataflow Gen2 en un workspace de Fabric | Entorno de prueba de Microsoft Fabric |
 | Miércoles | Práctica: Construir un Data Pipeline con actividad de copia | Entorno de prueba de Microsoft Fabric |
 | Jueves | Practicar preguntas del Dominio 2 (preguntas 1–25) | `practice-questions/domain-2-questions.md` |
-| Viernes | Revisar la cheat sheet de T-SQL | `cheat-sheets/t-sql-cheat-sheet.md` |
+| Viernes | Revisar la cheat sheet de T-SQL | [`cheat-sheets/t-sql-cheat-sheet.es.md`](cheat-sheets/t-sql-cheat-sheet.es.md) |
 | Sábado | Caso de estudio 2: Healthcare Reporting | `case-studies/case-study-2-healthcare-reporting.md` |
 | Domingo | Revisar y practicar áreas débiles | Revisa notas y preguntas |
 
