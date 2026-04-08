@@ -50,6 +50,7 @@ DP-600-perp/
 │   ├── 01-plan-implement-manage-analytics.md
 │   ├── 01-plan-implement-manage-analytics.es.md
 │   ├── 02-prepare-and-serve-data.md
+│   ├── 02-prepare-and-serve-data.es.md
 │   ├── 03-implement-manage-semantic-models.md
 │   └── 04-explore-and-analyze-data.md
 │
@@ -61,6 +62,7 @@ DP-600-perp/
 │
 ├── case-studies/                  # 5 estudios de caso basados en escenarios reales
 │   ├── case-study-1-retail-analytics.md
+│   ├── case-study-1-retail-analytics.es.md
 │   ├── case-study-2-healthcare-reporting.md
 │   ├── case-study-3-financial-data-platform.md
 │   ├── case-study-4-manufacturing-iot.md
@@ -110,7 +112,7 @@ DP-600-perp/
 | Miércoles | Practicar preguntas del Dominio 1 (primera mitad) | `practice-questions/domain-1-questions.md` |
 | Jueves | Practicar preguntas del Dominio 1 (segunda mitad) | `practice-questions/domain-1-questions.md` |
 | Viernes | Revisar la cheat sheet de componentes de Fabric | `cheat-sheets/fabric-components-cheat-sheet.md` |
-| Sábado | Caso de estudio 1: Retail Analytics | `case-studies/case-study-1-retail-analytics.md` |
+| Sábado | Caso de estudio 1: Retail Analytics | [`case-studies/case-study-1-retail-analytics.es.md`](case-studies/case-study-1-retail-analytics.es.md) |
 | Domingo | Revisar y cerrar brechas de conocimiento | Revisa cualquier área débil |
 
 ### Semana 2 — Dominio 2 Parte 1: Ingesta de datos, Dataflows y Pipelines
@@ -119,7 +121,7 @@ DP-600-perp/
 
 | Día | Actividad | Recursos |
 |---|---|---|
-| Lunes | Leer la guía de estudio del Dominio 2 (primera mitad: ingesta y Dataflows) | `study-guides/02-prepare-and-serve-data.md` |
+| Lunes | Leer la guía de estudio del Dominio 2 (primera mitad: ingesta y Dataflows) | [`study-guides/02-prepare-and-serve-data.es.md`](study-guides/02-prepare-and-serve-data.es.md) |
 | Martes | Práctica: Crear un Dataflow Gen2 en un workspace de Fabric | Entorno de prueba de Microsoft Fabric |
 | Miércoles | Práctica: Construir un Data Pipeline con actividad de copia | Entorno de prueba de Microsoft Fabric |
 | Jueves | Practicar preguntas del Dominio 2 (preguntas 1–25) | `practice-questions/domain-2-questions.md` |
@@ -133,7 +135,7 @@ DP-600-perp/
 
 | Día | Actividad | Recursos |
 |---|---|---|
-| Lunes | Leer la guía de estudio del Dominio 2 (segunda mitad: Lakehouse y Warehouse) | `study-guides/02-prepare-and-serve-data.md` |
+| Lunes | Leer la guía de estudio del Dominio 2 (segunda mitad: Lakehouse y Warehouse) | [`study-guides/02-prepare-and-serve-data.es.md`](study-guides/02-prepare-and-serve-data.es.md) |
 | Martes | Práctica: Crear un Lakehouse y cargar datos con notebooks | Entorno de prueba de Microsoft Fabric |
 | Miércoles | Práctica: Crear un Warehouse y escribir consultas T-SQL | Ejercicios de `practice-database/` |
 | Jueves | Practicar preguntas del Dominio 2 (preguntas 26–50+) | `practice-questions/domain-2-questions.md` |
@@ -210,7 +212,7 @@ DP-600-perp/
 9. **Haz seguimiento de tu progreso** usando la siguiente lista:
 
    - [x] Guía de estudio del Dominio 1 completada
-   - [ ] Preguntas de práctica del Dominio 1 completadas
+   - [x] Preguntas de práctica del Dominio 1 completadas
    - [ ] Guía de estudio del Dominio 2 completada
    - [ ] Preguntas de práctica del Dominio 2 completadas
    - [ ] Guía de estudio del Dominio 3 completada
