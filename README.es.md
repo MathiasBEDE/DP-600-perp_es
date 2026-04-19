@@ -57,6 +57,7 @@ DP-600-perp/
 ├── practice-questions/            # Más de 200 preguntas de opción múltiple
 │   ├── domain-1-questions.md
 │   ├── domain-2-questions.md
+│   ├── domain-2-questions.es.md
 │   ├── domain-3-questions.md
 │   └── domain-4-questions.md
 │
@@ -125,7 +126,7 @@ DP-600-perp/
 | Lunes | Leer la guía de estudio del Dominio 2 (primera mitad: ingesta y Dataflows) | [`study-guides/02-prepare-and-serve-data.es.md`](study-guides/02-prepare-and-serve-data.es.md) |
 | Martes | Práctica: Crear un Dataflow Gen2 en un workspace de Fabric | Entorno de prueba de Microsoft Fabric |
 | Miércoles | Práctica: Construir un Data Pipeline con actividad de copia | Entorno de prueba de Microsoft Fabric |
-| Jueves | Practicar preguntas del Dominio 2 (preguntas 1–25) | `practice-questions/domain-2-questions.md` |
+| Jueves | Practicar preguntas del Dominio 2 (preguntas 1–25) | [`practice-questions/domain-2-questions.es.md`](practice-questions/domain-2-questions.es.md) |
 | Viernes | Revisar la cheat sheet de T-SQL | [`cheat-sheets/t-sql-cheat-sheet.es.md`](cheat-sheets/t-sql-cheat-sheet.es.md) |
 | Sábado | Caso de estudio 2: Healthcare Reporting | `case-studies/case-study-2-healthcare-reporting.md` |
 | Domingo | Revisar y practicar áreas débiles | Revisa notas y preguntas |
@@ -139,7 +140,7 @@ DP-600-perp/
 | Lunes | Leer la guía de estudio del Dominio 2 (segunda mitad: Lakehouse y Warehouse) | [`study-guides/02-prepare-and-serve-data.es.md`](study-guides/02-prepare-and-serve-data.es.md) |
 | Martes | Práctica: Crear un Lakehouse y cargar datos con notebooks | Entorno de prueba de Microsoft Fabric |
 | Miércoles | Práctica: Crear un Warehouse y escribir consultas T-SQL | Ejercicios de `practice-database/` |
-| Jueves | Practicar preguntas del Dominio 2 (preguntas 26–50+) | `practice-questions/domain-2-questions.md` |
+| Jueves | Practicar preguntas del Dominio 2 (preguntas 26–50+) | [`practice-questions/domain-2-questions.es.md`](practice-questions/domain-2-questions.es.md) |
 | Viernes | Estudiar arquitectura medallion (bronze → silver → gold) | Guía de estudio + Microsoft Learn |
 | Sábado | Caso de estudio 3: Financial Data Platform | `case-studies/case-study-3-financial-data-platform.md` |
 | Domingo | Revisión completa del Dominio 2 — esto representa 40–45% del examen | Todos los recursos del Dominio 2 |
