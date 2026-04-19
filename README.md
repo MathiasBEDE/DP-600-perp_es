@@ -88,7 +88,7 @@ DP-600-perp/
 | `study-guides/` | 4 domain guides | Detailed notes aligned to each exam domain |
 | `practice-questions/` | 200+ MCQs across 4 files | Test your knowledge domain by domain |
 | `case-studies/` | 5 real-world case studies | Practice scenario-based reasoning |
-| `practice-database/` | SQL schemas, seed data, query exercises | Hands-on T-SQL and warehouse practice |
+| `practice-database/` | SQL schemas, seed data, query exercises, and notebook labs | Hands-on T-SQL and warehouse practice |
 | `cheat-sheets/` | DAX, T-SQL, Fabric components, exam tips | Last-minute review and quick reference |
 | `mock-exams/` | 2 full mock exams (50 questions each) | Simulate exam conditions |
 

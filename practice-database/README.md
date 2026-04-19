@@ -18,6 +18,12 @@ The practice database models a fictional retail company — **Contoso Retail Ana
 | [`schemas/`](schemas/) | Table definitions (DDL) for the dimensional model |
 | [`seed-data/`](seed-data/) | INSERT statements to populate the tables with sample data |
 | [`query-exercises/`](query-exercises/) | Beginner, intermediate, and advanced T-SQL exercises with solutions |
+| [`Labortorio/`](Labortorio/) | Week 2 T-SQL notebook labs for Fabric (English and Spanish) |
+
+## Notebook Labs
+
+- English: [`Labortorio/Laboratorio_semana_2_t-sql.en.ipynb`](Labortorio/Laboratorio_semana_2_t-sql.en.ipynb)
+- Spanish: [`Labortorio/Laboratorio_semana_2_t-sql.es.ipynb`](Labortorio/Laboratorio_semana_2_t-sql.es.ipynb)
 
 ## How to Use
 
